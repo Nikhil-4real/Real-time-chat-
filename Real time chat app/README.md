@@ -1,9 +1,6 @@
 Let's Chat
 A real-time chat application. Another fun side project :)
 
-Screenshot from 2022-09-07 16-27-25
-
-Screenshot from 2022-09-07 17-11-16
 
 GIFs are attached at the end.
 
@@ -49,9 +46,3 @@ Navigate to the frontend directory and run npm start.
 The application will be accessible at http://localhost:3000.
 Please make sure to keep the serviceAccountKey.json file and sensitive information secure and not commit them to version control.
 
-GIFs
-chrome-capture-2022-8-7
-
-chrome-capture-2022-8-7 (1)
-
-chrome-capture-2022-8-7 (2)
