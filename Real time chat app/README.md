@@ -1,9 +1,6 @@
 Let's Chat
 A real-time chat application. Another fun side project :)
 
-
-GIFs are attached at the end.
-
 Technologies Used
 React and TailwindCSS for the frontend
 Firebase for authentication
